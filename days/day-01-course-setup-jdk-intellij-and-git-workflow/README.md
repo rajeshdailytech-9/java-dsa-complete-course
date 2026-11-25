@@ -3,6 +3,10 @@
 **Module:** Java Foundations  
 **Target time:** 60–120 minutes
 
+## Video Lesson
+
+Watch: [Day 1 — Course Setup, JDK, IntelliJ, and Git Workflow](https://youtu.be/5CtJujtmHU0)
+
 ## Learning Outcomes
 
 By the end of this lesson, you should be able to:
