@@ -29,3 +29,26 @@ Use a small input, trace each operation, and record the changing state here.
 - When would this approach be a poor fit?
 - Can I implement the core technique tomorrow without notes?
 
+## Reference Notes
+
+### Backtracking introduction
+
+This lesson belongs to the **problem-solving patterns** phase. State the invariant before writing a loop or recursive call. At every step, explain what has already been processed and what remains.
+
+### Java Focus
+
+Use `ArrayDeque` for stack or queue behavior; avoid the legacy `Stack` class in new code.
+
+### Practice Recipe
+
+1. State the input, output, and constraints before choosing a data structure.
+2. Write the invariant or recursive contract in a comment or on paper.
+3. Trace a normal case and the smallest failing edge case.
+4. Record the final time and space complexity, including any auxiliary structure.
+
+### Review Questions
+
+- Which constraint makes this technique appropriate?
+- What state must stay correct after each operation?
+- How would the implementation change for an empty or single-item input?
+
