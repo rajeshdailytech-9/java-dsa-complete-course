@@ -32,7 +32,7 @@ Every lesson lives in `days/day-XX-topic/` and includes:
 
 ## Prerequisites
 
-- Java 21 LTS (Java 17 works too)
+- Java 25 LTS (Java 21 and Java 17 also work)
 - Git and a GitHub account
 - IntelliJ IDEA Community Edition, VS Code, or Eclipse
 - Comfort with basic algebra; no prior DSA experience required

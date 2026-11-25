@@ -2,7 +2,7 @@
 
 ## Recommended Setup
 
-- **JDK:** Java 21 LTS is recommended. Java 17 LTS is also supported for all course examples.
+- **JDK:** Java 25 LTS is recommended. Java 21 LTS and Java 17 LTS are also supported for all course examples.
 - **Editor:** IntelliJ IDEA Community Edition is recommended; VS Code with Extension Pack for Java or Eclipse also work.
 - **Build tool:** Start with plain Java source files. Introduce Maven or Gradle when organizing a larger module or capstone.
 - **Style:** Use four spaces, descriptive names, and one public class per file when building examples.
