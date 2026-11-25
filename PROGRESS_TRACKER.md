@@ -1,0 +1,95 @@
+# Progress Tracker
+
+Check a day only after meeting the [definition of done](DAILY_WORKFLOW.md#definition-of-done). Add a date or brief reflection after the checkbox if useful.
+
+- [ ] Day 01 — Course setup, JDK, IntelliJ, and Git workflow
+- [ ] Day 02 — Java syntax, variables, data types, and operators
+- [ ] Day 03 — Control flow: conditionals and loops
+- [ ] Day 04 — Methods, scope, and parameter passing
+- [ ] Day 05 — Arrays and strings fundamentals
+- [ ] Day 06 — Complexity analysis: Big-O, Big-Theta, and Big-Omega
+- [ ] Day 07 — Dry runs, tracing, and test-case design
+- [ ] Day 08 — Recursion fundamentals and call stacks
+- [ ] Day 09 — Backtracking introduction
+- [ ] Day 10 — Bit manipulation fundamentals
+- [ ] Day 11 — Two pointers pattern
+- [ ] Day 12 — Sliding window pattern
+- [ ] Day 13 — Linear and binary search
+- [ ] Day 14 — Bubble, selection, and insertion sort
+- [ ] Day 15 — Merge sort
+- [ ] Day 16 — Quick sort
+- [ ] Day 17 — Counting, radix, and bucket sort
+- [ ] Day 18 — Sorting and searching review challenge
+- [ ] Day 19 — Singly linked lists
+- [ ] Day 20 — Doubly linked lists
+- [ ] Day 21 — Circular linked lists
+- [ ] Day 22 — Fast and slow pointers
+- [ ] Day 23 — Linked-list reversal and partitioning
+- [ ] Day 24 — Linked-list review challenge
+- [ ] Day 25 — Stack implementation and applications
+- [ ] Day 26 — Monotonic stacks
+- [ ] Day 27 — Queue, circular queue, and deque
+- [ ] Day 28 — Priority queues and heaps introduction
+- [ ] Day 29 — Heap operations and heap sort
+- [ ] Day 30 — Stack and queue review challenge
+- [ ] Day 31 — Hash tables, collisions, and load factor
+- [ ] Day 32 — HashMap and HashSet patterns
+- [ ] Day 33 — Frequency counting and grouping
+- [ ] Day 34 — Prefix sums and hash maps
+- [ ] Day 35 — Custom hashing and equality in Java
+- [ ] Day 36 — Hashing review challenge
+- [ ] Day 37 — Tree vocabulary and binary-tree representation
+- [ ] Day 38 — Depth-first traversals
+- [ ] Day 39 — Breadth-first traversal
+- [ ] Day 40 — Binary-search trees
+- [ ] Day 41 — BST insertion, deletion, and validation
+- [ ] Day 42 — Balanced trees and tree review challenge
+- [ ] Day 43 — Heaps revisited and top-K problems
+- [ ] Day 44 — Trie fundamentals
+- [ ] Day 45 — Trie applications and word search
+- [ ] Day 46 — Segment trees
+- [ ] Day 47 — Fenwick trees (binary indexed trees)
+- [ ] Day 48 — Advanced trees review challenge
+- [ ] Day 49 — Graph representations
+- [ ] Day 50 — Breadth-first search
+- [ ] Day 51 — Depth-first search
+- [ ] Day 52 — Cycle detection and bipartite graphs
+- [ ] Day 53 — Topological sort and DAGs
+- [ ] Day 54 — Shortest paths: Dijkstra and Bellman-Ford
+- [ ] Day 55 — Minimum spanning trees: Prim and Kruskal
+- [ ] Day 56 — Graph review challenge
+- [ ] Day 57 — DP mindset: recursion to memoization
+- [ ] Day 58 — 1D dynamic programming
+- [ ] Day 59 — 2D dynamic programming
+- [ ] Day 60 — Knapsack patterns
+- [ ] Day 61 — Longest common subsequence patterns
+- [ ] Day 62 — Subsequence and interval DP
+- [ ] Day 63 — Dynamic-programming review challenge
+- [ ] Day 64 — Greedy strategy and proof intuition
+- [ ] Day 65 — Interval scheduling and merging
+- [ ] Day 66 — Greedy with heaps
+- [ ] Day 67 — Jump-game and reachability patterns
+- [ ] Day 68 — Scheduling and allocation problems
+- [ ] Day 69 — Greedy and intervals review challenge
+- [ ] Day 70 — StringBuilder, character arrays, and encoding
+- [ ] Day 71 — String matching: naive, KMP, and rolling hash
+- [ ] Day 72 — Palindromes and center expansion
+- [ ] Day 73 — Anagrams and frequency patterns
+- [ ] Day 74 — String dynamic programming
+- [ ] Day 75 — Strings review challenge
+- [ ] Day 76 — Divide and conquer patterns
+- [ ] Day 77 — Sweep line and event sorting
+- [ ] Day 78 — Union-Find / disjoint-set union
+- [ ] Day 79 — Bitmasking and subset enumeration
+- [ ] Day 80 — Advanced backtracking
+- [ ] Day 81 — Advanced patterns review challenge
+- [ ] Day 82 — How to approach coding interviews
+- [ ] Day 83 — Arrays and strings interview set
+- [ ] Day 84 — Linked lists and stacks interview set
+- [ ] Day 85 — Trees and graphs interview set
+- [ ] Day 86 — Dynamic programming interview set
+- [ ] Day 87 — Timed mock interview and review
+- [ ] Day 88 — Build a Java DSA utilities library
+- [ ] Day 89 — Curate solutions and write explanations
+- [ ] Day 90 — Final mixed-topic assessment
+
